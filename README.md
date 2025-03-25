@@ -1,2 +1,2 @@
-with summary - darazStructure.py
-without summary file- updatedPDF.py
+with summary +SPLITED DELIVERY ADDRESS - darazStructure.py
+without summary +SPLITED DELIVERY ADDRESS file- updatedPDF.py
